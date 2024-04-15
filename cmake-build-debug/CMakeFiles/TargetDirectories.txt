@@ -1,0 +1,3 @@
+/Users/mihyar/Downloads/UVT/Anul 2 /Semester 2/Operating Systems II/Project/Project Code/cmake-build-debug/CMakeFiles/Project_Code.dir
+/Users/mihyar/Downloads/UVT/Anul 2 /Semester 2/Operating Systems II/Project/Project Code/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/mihyar/Downloads/UVT/Anul 2 /Semester 2/Operating Systems II/Project/Project Code/cmake-build-debug/CMakeFiles/rebuild_cache.dir
